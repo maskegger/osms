@@ -223,6 +223,15 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "You Can Label a JavaScript `if` Statement"
+        },
+        {
+          "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/sending-large-files/",
+          "publishedOn": "2021-04-29T17:52:55.000Z",
+          "wordCount": 1669,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Sending Large Files"
         }
       ]
     },
