@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
+          "author": null,
+          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
+          "publishedOn": "2021-05-15T09:35:54.000Z",
+          "wordCount": 286,
+          "title": "v1.7.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
           "author": null,
           "description": "Added: Basic theme customization: Demo | Source | Docs.",
@@ -558,15 +567,6 @@
           "publishedOn": "2021-04-19T08:30:00.000Z",
           "wordCount": 7206,
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "author": "hello@smashingmagazine.com (Emma Bostian)",
-          "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
-          "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "publishedOn": "2021-04-16T09:00:00.000Z",
-          "wordCount": 2912,
-          "title": "Seven Mistakes To Avoid In Your Technical Interviews"
         }
       ]
     },
@@ -821,5 +821,5 @@
       ]
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }
