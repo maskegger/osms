@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
+          "author": null,
+          "description": "Fixed: static files were unnecessarily copied for custom templates.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
+          "publishedOn": "2021-05-16T02:33:58.000Z",
+          "wordCount": 280,
+          "title": "v1.7.1"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
           "author": null,
           "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.",
@@ -821,5 +830,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.0"
+  "cliVersion": "1.7.1"
 }

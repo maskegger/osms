@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maskegger.github.io/osms/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T00:05:56.229Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-17T00:05:27.629Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://maskegger.github.io/osms/index.html"/>
     <link rel="self" href="https://maskegger.github.io/osms/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.7.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
+        <updated>2021-05-16T02:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.7.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
